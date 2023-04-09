@@ -1,0 +1,29 @@
+.wrap h2 {
+    margin-top: 2em;
+}
+
+.wrap p {
+    margin-bottom: 1em;
+}
+
+#wp-bcg_template-wrap {
+    margin-bottom: 2em;
+}
+
+.notice {
+    padding: 0.5em 1em;
+    margin-bottom: 1em;
+    border-radius: 3px;
+}
+
+.notice-success {
+    background-color: #DFF2BF;
+    border-color: #B2D880;
+    color: #4F8A10;
+}
+
+.notice-error {
+    background-color: #FFD2D2;
+    border-color: #E6B4B4;
+    color: #D8000C;
+}
